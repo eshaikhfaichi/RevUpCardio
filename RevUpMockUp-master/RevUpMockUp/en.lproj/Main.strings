@@ -1,0 +1,51 @@
+
+/* Class = "IBUIButton"; normalTitle = "Get Started!"; ObjectID = "2lq-h9-peg"; */
+"2lq-h9-peg.normalTitle" = "Get Started!";
+
+/* Class = "IBUILabel"; text = "Create An Account"; ObjectID = "GHU-on-ozy"; */
+"GHU-on-ozy.text" = "Create An Account";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "NbR-nQ-Bss"; */
+"NbR-nQ-Bss.normalTitle" = "Login";
+
+/* Class = "IBUIButton"; normalTitle = "Create"; ObjectID = "OUc-8z-RoY"; */
+"OUc-8z-RoY.normalTitle" = "Create";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "Vmq-P7-Fhy"; */
+"Vmq-P7-Fhy.placeholder" = "Password";
+
+/* Class = "IBUILabel"; text = "RevUp Cardio"; ObjectID = "Zoa-Fl-Sgm"; */
+"Zoa-Fl-Sgm.text" = "RevUp Cardio";
+
+/* Class = "IBUIButton"; normalTitle = "OK"; ObjectID = "aNG-1q-FIl"; */
+"aNG-1q-FIl.normalTitle" = "OK";
+
+/* Class = "IBUIButton"; normalTitle = "Forgot Password?"; ObjectID = "c7A-3v-Oru"; */
+"c7A-3v-Oru.normalTitle" = "Forgot Password?";
+
+/* Class = "IBUIButton"; normalTitle = "Sign Up"; ObjectID = "d2s-JM-V2p"; */
+"d2s-JM-V2p.normalTitle" = "Sign Up";
+
+/* Class = "IBUIButton"; normalTitle = "Tour The App"; ObjectID = "g2g-5Q-Ww9"; */
+"g2g-5Q-Ww9.normalTitle" = "Tour The App";
+
+/* Class = "IBUILabel"; text = "Add a couple of sentences about the app. Content pending."; ObjectID = "hNr-4O-TCH"; */
+"hNr-4O-TCH.text" = "Add a couple of sentences about the app. Content pending.";
+
+/* Class = "IBUIButton"; normalTitle = "RevUp Account"; ObjectID = "iU9-kE-o5u"; */
+"iU9-kE-o5u.normalTitle" = "RevUp Account";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "kAn-W9-NPR"; */
+"kAn-W9-NPR.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Welcome to the RevUp Cardio App!"; ObjectID = "n8E-bR-p6Y"; */
+"n8E-bR-p6Y.text" = "Welcome to the RevUp Cardio App!";
+
+/* Class = "IBUILabel"; text = "RevUp Cardio"; ObjectID = "oAX-Eq-sar"; */
+"oAX-Eq-sar.text" = "RevUp Cardio";
+
+/* Class = "IBUIButton"; normalTitle = "Login With FaceBook"; ObjectID = "tK8-tN-6kc"; */
+"tK8-tN-6kc.normalTitle" = "Login With FaceBook";
+
+/* Class = "IBUINavigationItem"; title = "Loading"; ObjectID = "uGU-yS-zvK"; */
+"uGU-yS-zvK.title" = "Loading";
