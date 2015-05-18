@@ -23,7 +23,7 @@
     pageControl.currentPageIndicatorTintColor = [UIColor colorWithRed:0.0 green:119.0 blue:119.0 alpha:1.0];
     [[UIPageControl appearance] setBackgroundColor:[UIColor colorWithPatternImage:[UIImage imageNamed:@"trialImage.png"]]];
 
-    
+    //didfinish
      // Override point for customization after application launch.
     return YES;
 
